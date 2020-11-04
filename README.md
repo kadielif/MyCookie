@@ -5,13 +5,13 @@ Uygulamadaki veriler sql veritabanından çekilmektedir.
 
 Uygulama Açılış Sayfası 
 
-!(https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png =250x250)
 
 
 
 Uygulamaya Ait Görseller 
 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png | width=100) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png ) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
