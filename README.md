@@ -5,21 +5,25 @@ Uygulamadaki veriler sql veritabanından çekilmektedir.
 
 Uygulama Açılış Sayfası 
 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png)
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png" width="200" height="400" />
 
 
 
 Uygulamaya Ait Görseller 
 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png )
 <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" width="200" height="400" />
 
-| ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
 <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png" width="200" height="400" />
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png)
+
 <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png" width="200" height="400" />
 
-| ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png" width="200" height="400" />
+
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png" width="200" height="400" />
+
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png" width="200" height="400" />
+
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png" width="200" height="400" />
+
+
 
