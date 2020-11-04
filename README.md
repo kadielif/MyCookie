@@ -11,8 +11,16 @@ Uygulama Açılış Sayfası
 
 Uygulamaya Ait Görseller 
 
-![drawing]{:height="36px" width="36px"}(https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png) | ![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
-![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) | ![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
-![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
-![drawing](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
 
+ <section data-markdown>
+                    ## MyCookie
+        
+                        Info over here
+
+                    ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png)
+                    <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" width="100px" height="100px"/>
+ </section>
