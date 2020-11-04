@@ -5,7 +5,7 @@ Uygulamadaki veriler sql veritabanından çekilmektedir.
 
 Uygulama Açılış Sayfası 
 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png =250x250)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png=250x250)
 
 
 
