@@ -15,7 +15,11 @@ Uygulamaya Ait Görseller
 <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" width="200" height="400" />
 
 | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png" width="200" height="400" />
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png)
+<img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png" data-canonical-src="https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png" width="200" height="400" />
+
+| ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
 
