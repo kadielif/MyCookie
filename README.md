@@ -3,13 +3,15 @@ Kurabiye tariflerininin yer aldığı uygulamadır. İstanbul Kültür Üniversi
 Uygulamada PHP, Jquery, HTML, Css kodları kullanılmıştır.
 Uygulamadaki veriler sql veritabanından çekilmektedir.
 
-!Uygulama Açılış Sayfası (https://github.com/kadielif/MyCookie/screenshot/10.png)
+Uygulama Açılış Sayfası 
+
+!(https://github.com/kadielif/MyCookie/blob/master/screenshot/10.png)
 
 
 
-!Uygulamaya Ait Görseller 
+Uygulamaya Ait Görseller 
 
-(https://github.com/kadielif/MyCookie/screenshot/1.png)   (https://github.com/kadielif/MyCookie/screenshot/2.png)  
-(https://github.com/kadielif/MyCookie/screenshot/4.png)   (https://github.com/kadielif/MyCookie/screenshot/3.png)
-(https://github.com/kadielif/MyCookie/screenshot/5.png)  (https://github.com/kadielif/MyCookie/screenshot/6.png)
-(https://github.com/kadielif/MyCookie/screenshot/7.png)
+!(https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png) !(https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
+!(https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) !(https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
+!(https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) !(https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png)
+!(https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
