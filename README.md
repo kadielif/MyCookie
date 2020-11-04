@@ -11,16 +11,8 @@ Uygulama Açılış Sayfası
 
 Uygulamaya Ait Görseller 
 
-![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
+![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png | width=100) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/2.png)
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/3.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/4.png)
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/5.png) | ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/6.png) 
 ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/7.png)
 
- <section data-markdown>
-                    ## MyCookie
-        
-                        Info over here
-
-                    ![](https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png)
-                    <img src="https://github.com/kadielif/MyCookie/blob/master/screenshot/1.png" width="100px" height="100px"/>
- </section>
