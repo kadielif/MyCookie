@@ -2,7 +2,8 @@
 Kurabiye tariflerininin yer aldığı uygulamadır. İstanbul Kültür Üniversitesinde bir dersin projesi olarak yapılmıştır.  
 Uygulamada PHP, Jquery, HTML, Css kodları kullanılmıştır.
 Uygulamadaki veriler sql veritabanından çekilmektedir.
-Son Düzenleme Tarihi: 28.12.2016
+
+:sparkles:  Son Düzenleme Tarihi: 28.12.2016
 
 Uygulama Açılış Sayfası 
 -----------------------
